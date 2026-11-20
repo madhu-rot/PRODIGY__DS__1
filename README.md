@@ -32,8 +32,9 @@ Exported the cleaned dataset as a CSV file.
 📈 Data Analysis & Visualizations
 
 The project includes the following visualizations:
-1. Top 10 Most Populated Countries<img width="1282" height="721" alt="Screenshot 2026-11-20 163634" src="https://github.com/user-attachments/assets/d6b01bfd-40fc-4afa-bf79-f5c32ecc5f24" />
-
+1. Top 10 Most Populated Countries
+<img width="352" height="357" alt="Screenshot 2026-11-20 163756" src="https://github.com/user-attachments/assets/c0ba6ed6-8fe2-47f5-bfa2-a0b02c8d6886" />
+ 
 A horizontal bar chart comparing the population of the ten most populated countries in the latest available year.
 2. Population Distribution Histogram
 <img width="376" height="365" alt="Screenshot 2026-11-20 163939" src="https://github.com/user-attachments/assets/f6c79393-8141-413e-911d-030e9a965e09" />
@@ -44,7 +45,7 @@ A histogram illustrating how countries are distributed across different populati
 
 A line chart representing India's population growth from 1960 to 2025.
 4. Power BI Dashboard
-<img width="352" height="357" alt="Screenshot 2026-11-20 163756" src="https://github.com/user-attachments/assets/c0ba6ed6-8fe2-47f5-bfa2-a0b02c8d6886" />
+<img width="1282" height="721" alt="Screenshot 2026-11-20 163634" src="https://github.com/user-attachments/assets/d6b01bfd-40fc-4afa-bf79-f5c32ecc5f24" />
 
 A dashboard presenting key population statistics and visualizations.
 Key Performance Indicators (KPIs):
